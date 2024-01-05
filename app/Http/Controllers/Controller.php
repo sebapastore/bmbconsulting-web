@@ -50,7 +50,7 @@ class Controller extends BaseController
             );
             Mail::send('mail',$data, function($message) use($request){
                 $message->replyTo($request->email, $request->name);
-                $message->to('eugenia@bmbconsulting.com.py');
+                $message->to('eugebaezbolla@gmail.com');
                 $message->subject("Contacto desde la página web BMBConsulting");
             });
 
