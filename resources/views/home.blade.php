@@ -15,8 +15,6 @@
 <link type="text/css" rel="stylesheet" id="jssDefault" href="css/custom/theme-2.css"/>
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
 </head>
 
 <!-- page wrapper -->
@@ -564,8 +562,9 @@ Auditoría y presentación de solicitud de crédito fiscal del exportador. Negoc
                                         <textarea required rows="4" type="text" name="formMessage" placeholder="Mensaje"></textarea>
                                     </div>
                                 </div>
-                                @if(env('GOOGLE_RECAPTCHA_KEY'))
-                                    <div class="g-recaptcha" data-sitekey="{{env('GOOGLE_RECAPTCHA_KEY')}}">
+                                @if(env('NOCAPTCHA_SITEKEY'))
+                                    <div>
+                                        {!! \Anhskohbo\NoCaptcha\Facades\NoCaptcha::renderJs('es') !!}
                                     </div>
                                 @endif
                                 <br>
