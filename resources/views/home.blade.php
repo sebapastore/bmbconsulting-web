@@ -599,7 +599,7 @@ Auditoría y presentación de solicitud de crédito fiscal del exportador. Negoc
                     <div class="single-item hvr-float-shadow">
                         <div class="icon-box"><i class="fa fa-envelope"></i></div>
                         <div class="title">Email</div>
-                        <div class="text"><p><br/><a href="#">eugebaezbolla@gmail.com</a><br/></p></div>
+                        <div class="text"><p><br/><a href="#">eugenia@bmbconsulting.com.py</a><br/></p></div>
                     </div>
                 </div>
             </div>
