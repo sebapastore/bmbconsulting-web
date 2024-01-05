@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Foundation\Validation\ValidatesRequests;
+use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Support\Facades\Log;
@@ -14,7 +15,7 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, ValidatesRequests;
 
-    public function contactUs(Request $request)
+    public function contactUs(Request $request): JsonResponse
     {
         if( $request->filled('name') &&
             $request->filled('email') &&
@@ -27,18 +28,18 @@ class Controller extends BaseController
                 return response()->json(['estatus' => 1, 'message' => "Error al enviar. Dirección de correo no válida."]);
             }
 
-            $rules = array(
-                'g-recaptcha-response'=>'required|recaptcha',
-            );
-
-            $data = array('g-recaptcha-response' => $request->input('g-recaptcha-response'));
-
-            $validator = Validator::make($data, $rules);
-
-            if ($validator->fails()) {
-                return response()->json(['estatus' => 0,
-                    'message' => 'No se envió el mensaje. Favor comprobar marcar el campo "No soy un Robot".']);
-            }
+//            $rules = array(
+//                'g-recaptcha-response'=>'required|recaptcha',
+//            );
+//
+//            $data = array('g-recaptcha-response' => $request->input('g-recaptcha-response'));
+//
+//            $validator = Validator::make($data, $rules);
+//
+//            if ($validator->fails()) {
+//                return response()->json(['estatus' => 0,
+//                    'message' => 'No se envió el mensaje. Favor comprobar marcar el campo "No soy un Robot".']);
+//            }
 
             $data = array(
                 'name' => $request->name,
@@ -57,15 +58,8 @@ class Controller extends BaseController
                 $message->to($request->email);
                 $message->subject("Contacto con BMB Consulting");
             });
-            // check for failures
-            if (Mail::failures()) {
-                Log::info("mail failures");
-                return response()->json(['estatus' => 0,
-                    'message' => "Se produjo un error. Favor intente más tarde o contáctese directamente a info@bmbconsulting.com.py"]);
-            }
-            else{
-                return response()->json(['estatus' => 0, 'message' => "Hemos recibido tu mensaje. Gracias por contactarnos."]);
-            }
+
+            return response()->json(['estatus' => 0, 'message' => "Hemos recibido tu mensaje. Gracias por contactarnos."]);
 
         }else{
             //No se envía el email pero se responde como que sí se envió

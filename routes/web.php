@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::post('/contacto', 'Controller@contactUs');
+Route::post('/contacto', [\App\Http\Controllers\Controller::class, 'contactUs']);
