@@ -562,11 +562,6 @@ Auditoría y presentación de solicitud de crédito fiscal del exportador. Negoc
                                         <textarea required rows="4" type="text" name="formMessage" placeholder="Mensaje"></textarea>
                                     </div>
                                 </div>
-                                @if(env('NOCAPTCHA_SITEKEY'))
-                                    <div>
-                                        {!! \Anhskohbo\NoCaptcha\Facades\NoCaptcha::renderJs('es') !!}
-                                    </div>
-                                @endif
                                 <br>
                                 <div class="button">
                                     <button type="submit" class="btn-one style-one radi" data-loading-text="Enviando...">Enviar Mensaje</button>
