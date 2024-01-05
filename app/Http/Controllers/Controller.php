@@ -54,10 +54,10 @@ class Controller extends BaseController
                 $message->subject("Contacto desde la página web BMBConsulting");
             });
 
-            Mail::send('mail-bienvenida',$data, function($message) use($request){
-                $message->to($request->email);
-                $message->subject("Contacto con BMB Consulting");
-            });
+//            Mail::send('mail-bienvenida',$data, function($message) use($request){
+//                $message->to($request->email);
+//                $message->subject("Contacto con BMB Consulting");
+//            });
 
             return response()->json(['estatus' => 0, 'message' => "Hemos recibido tu mensaje. Gracias por contactarnos."]);
 
