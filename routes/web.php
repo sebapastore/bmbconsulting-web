@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::post('/contacto', 'Controller@contacto');
+Route::post('/contacto', 'Controller@contactUs');
