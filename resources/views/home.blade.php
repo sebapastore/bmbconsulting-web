@@ -10,9 +10,9 @@
 <meta name="description" content='Empresa familiar, dedicada a continuar el legado de nuestro padre el Dr. Alcides Emilio Báez Maldonado, quién implementó en el Paraguay la Ley No. 1064/97 “De las Industrias Maquiladoras de Exportacion”'>
 
 <!-- Stylesheets -->
-<link href="css/style.css?v=2" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
-<link type="text/css" rel="stylesheet" id="jssDefault" href="css/custom/theme-2.css"/>
+<link href="css/style.css?v=3" rel="stylesheet">
+<link href="css/responsive.css?v=3" rel="stylesheet">
+<link type="text/css" rel="stylesheet" id="jssDefault" href="css/custom/theme-2.css?v=3"/>
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 
 </head>
