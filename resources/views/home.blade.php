@@ -592,7 +592,8 @@ Auditoría y presentación de solicitud de crédito fiscal del exportador. Negoc
                     <div class="single-item hvr-float-shadow">
                         <div class="icon-box"><i class="fa fa-phone"></i></div>
                         <div class="title">Teléfono</div>
-                        <div class="text"><p><br/>+595 982 940 304<br/></p></div>
+                        <div class="text"><p><br/>+595 982 940 304</p></div>
+                        <div><a href="https://wa.me/595982940304" target="_blank" style="color: -webkit-link; text-decoration-line: underline; cursor: auto;">Escribir al WhatsApp</a></div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 contact-colmun">
