@@ -28,18 +28,18 @@ class Controller extends BaseController
                 return response()->json(['estatus' => 1, 'message' => "Error al enviar. Dirección de correo no válida."]);
             }
 
-//            $rules = array(
-//                'g-recaptcha-response'=>'required|recaptcha',
-//            );
-//
-//            $data = array('g-recaptcha-response' => $request->input('g-recaptcha-response'));
-//
-//            $validator = Validator::make($data, $rules);
-//
-//            if ($validator->fails()) {
-//                return response()->json(['estatus' => 0,
-//                    'message' => 'No se envió el mensaje. Favor comprobar marcar el campo "No soy un Robot".']);
-//            }
+            $rules = array(
+                'g-recaptcha-response'=>'required|recaptcha',
+            );
+
+            $data = array('g-recaptcha-response' => $request->input('g-recaptcha-response'));
+
+            $validator = Validator::make($data, $rules);
+
+            if ($validator->fails()) {
+                return response()->json(['estatus' => 0,
+                    'message' => 'No se envió el mensaje. Favor comprobar marcar el campo "No soy un Robot".']);
+            }
 
             $data = array(
                 'name' => $request->name,
