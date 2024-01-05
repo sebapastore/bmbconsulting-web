@@ -582,9 +582,10 @@ Auditoría y presentación de solicitud de crédito fiscal del exportador. Negoc
                 <div class="col-md-4 col-sm-6 col-xs-12 contact-colmun">
                     <div class="single-item hvr-float-shadow">
                         <div class="icon-box"><i class="fa fa-map-marker"></i></div>
-                        <div class="title">Oficinas</div>
-                        <div class="text"><p>16 de Noviembre entre Pykysyry y Don Bosco
-					<br/>Profesor Chávez 386 entre Dr. Bestard y Tte. Ballota</p></div>
+                        <div class="title">Oficina</div>
+                        <div class="text">
+                            <p>Comandante Aguirre Nro: 715 esq. Avda. Juan Mena Porta</p>
+                        </div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 contact-colmun">
@@ -598,7 +599,7 @@ Auditoría y presentación de solicitud de crédito fiscal del exportador. Negoc
                     <div class="single-item hvr-float-shadow">
                         <div class="icon-box"><i class="fa fa-envelope"></i></div>
                         <div class="title">Email</div>
-                        <div class="text"><p><br/><a href="#">info@bmbconsulting.com.py</a><br/></p></div>
+                        <div class="text"><p><br/><a href="#">eugebaezbolla@gmail.com</a><br/></p></div>
                     </div>
                 </div>
             </div>
