@@ -614,7 +614,7 @@ Auditoría y presentación de solicitud de crédito fiscal del exportador. Negoc
     <!-- footer bottom -->
     <section class="footer-bottom centered">
         <div class="container">
-            <div class="copyright"><p><a href="#">BM&B Consulting </a> Copyright © 2019 All Right Reserved</p></div>
+            <div class="copyright"><p><a href="#">BM&B Consulting </a> Copyright © 2023 All Right Reserved</p></div>
         </div>
     </section>
 
