@@ -318,17 +318,12 @@ Dedicó gran parte de su vida, mas de dos décadas, de trabajo, estudio y sacrif
                             <div class="title-text"></div>
                         </div>
                         <div class="text"><p>
-BÁEZ MALDONADO Y BOLLA CONSULTING es una empresa familiar, una consultora técnico-jurídica paraguaya dedicada a continuar el legado de nuestro padre el Dr. Alcides Emilio Báez Maldonado, quién implementó en el Paraguay la Ley No. 1064/97 “De las Industrias Maquiladoras de Exportacion”, con la promoción y asesoramiento sobre la misma y sus posibilidades, estudios de viabilidad, preparación y aprobación de Programas de Maquila, prestando un servicio personalizado y completo a empresas o particulares, paraguayos o extranjeros, enfocando todos los esfuerzos a llegar a proyectos atractivos, con todos los beneficios que nuestro pais tiene y representa para la region y el mundo, un pais con población joven, una economia estable y creciente, con el potencial de ser un hub industrial para el mundo, por el lugar geográfico estrategico que ocupa.
-			</p></div>
-			<h3>Staff</h3>
+                                BÁEZ MALDONADO Y BOLLA CONSULTING es una consultora familiar paraguaya, dedicada a continuar el legado del <b>Dr. Alcides Emilio Báez Maldonado</b>, creador e impulsor de la <b>Ley No. 1064/97  “De las Industrias Maquiladoras de Exportación”</b>, con la promoción y asesoramiento sobre la ley y sus posibilidades, estudios de viabilidad, preparación y aprobación de Programas de Maquila, prestando un servicio personalizado y completo a empresas y particulares paraguayos o extranjeros interesados en conocer el alcance de la misma, así como otras leyes favorables a la inversión, enfocando los esfuerzos  para llegar a proyectos atractivos para nuestros clientes, con todos los beneficios que nuestro pais ofrece y lo que representa para la region y el mundo; un pais con población joven, una macroeconomía estable y creciente, con potencial de ser un hub industrial para el Mercosur y el mundo, por el lugar geográfico estratégico que ocupa.
+			            </p></div>
                         <ul class="list">
-                            <li>Abogados</li>
-                            <li>-Lic. en Comercio Internacional</li>
-                            <li>Escribanas</li>
-                            <li>Contadores</li>
-                            <li>Arquitectos</li>
-                            <li>Corredores Inmobiliarios</li>
-                            <li>Ingenieros</li>
+                            <li>Lic. Eugenia Báez Bolla</li>
+                            <li>Abog. Adria Báez Bolla</li>
+                            <li>Notario y Escribano Público Ma. Jackeline Bolla de Báez</li>
                         </ul>
                         <div class="text"><p>
 Como parte de nuestros servicios nos involucramos fuertemente con el interesado, informándole sobre las características comerciales, legales, notariales, técnicas, ventajas y desventajas que estén vinculados al negocio y el proyecto que estén deseando.
@@ -364,20 +359,20 @@ Asesoria y analisis de factibilidad, preparacion de proyectos bajo la modalidad 
                 <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
                     <div class="service-content">
                         <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Ley 60/90</a></h4>
+                        <h4><a href="#">Supervisión Maquila</a></h4>
                         <div class="text"><p>
-Ley 60/90 de incentivos fiscales a la inversion de capital de origen nacional y extranjero
-Asesoria y preparacion de proyectos para aplicar a los beneficios de la Ley 60/90 de inversiones. Desarrollo, presentacion en los estamentos requeridos y acompañamiento hasta la aprobacion del mismo.
-			</p></div>
+                                Soporte para supervision y mantenimiento del Sistema SIMEX, presentaciones de actas de destrucción y formulario Banco Central, solicitudes de ampliación o modificación de programas aprobados, soporte de información y nexo de la empresa maquiladora con el CNIME (Consejo Nacional de Industrias Maquiladoras de Exportación)
+                            </p></div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
                     <div class="service-content">
                         <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Servicios Notariales</a></h4>
+                        <h4><a href="#">Ley 60/90</a></h4>
                         <div class="text"><p>
-Redacción de estatutos sociales para sociedades anonimas, sociedades de responsabilidad limitada y otras, redaccion de todo tipo de poderes y actas, redaccion de contratos, autenticaciones y certificaciones de firmas. Aumentos de capital, emision y cesion de acciones, transferencias de inmuebles y vehiculos, protocolizaciones en general.
-			</p></div>
+                            Ley 60/90 de incentivos fiscales a la inversion de capital de origen nacional y extranjero
+                            Asesoria y preparacion de proyectos para aplicar a los beneficios de la Ley 60/90 de inversiones. Desarrollo, presentacion en los estamentos requeridos y acompañamiento hasta la aprobacion del mismo.
+			            </p></div>
                     </div>
                 </div>
             </div>
@@ -387,117 +382,48 @@ Redacción de estatutos sociales para sociedades anonimas, sociedades de respons
                         <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
                         <h4><a href="#">Radicación de Extranjeros</a></h4>
                         <div class="text"><p>
-Preparacion de documentación y acompañamiento para la realización de los trámites de Radicación en Paraguay, ya sea Radicación Permanente o Radicación Temporal
-			</p></div>
+                                Preparacion de documentación y acompañamiento para la realización de los trámites de Radicación en Paraguay, ya sea Radicación Permanente o Radicación Temporal
+                            </p></div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
                     <div class="service-content">
                         <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Evaluación de Impacto Ambiental</a></h4>
+                        <h4><a href="#">Servicios Notariales</a></h4>
                         <div class="text"><p>
-Estudio, presentación y acompañamiento para gestiones de estudios de impacto ambiental y tratamiento de efluentes relacionados a proyectos de Maquila u otros proyectos de inversion.
-			</p></div>
+                                Redacción de estatutos sociales para sociedades anonimas, sociedades de responsabilidad limitada y otras, redaccion de todo tipo de poderes y actas, redaccion de contratos, autenticaciones y certificaciones de firmas. Aumentos de capital, emision y cesion de acciones, transferencias de inmuebles y vehiculos, protocolizaciones en general.
+                            </p></div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
-                    <div class="service-content">
-                        <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Contratos Laborales y Reglamentos Internos de Trabajo</a></h4>
-                        <div class="text"><p>
-Redacción de contratos laborales, ficha de empleados, apercibimientos y reglamento interno de trabajos.
-			</p></div>
-                    </div>
-                </div>
-            </div>
-            <div class="row row-eq-height">
                 <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
                     <div class="service-content">
                         <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
                         <h4><a href="#">Domicilio Temporal</a></h4>
                         <div class="text"><p>
-			Establecemos el domicilio de nuestras oficinas como domicilio temporal de la empresa a fin de recibir notificaciones, celebrar contratos, etc.
-			</p></div>
+                                Establecemos el domicilio de nuestras oficinas como domicilio temporal de la empresa a fin de recibir notificaciones, celebrar contratos, etc.
+                            </p></div>
                     </div>
                 </div>
+            </div>
+            <div class="row row-eq-height">
                 <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
                     <div class="service-content">
                         <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
                         <h4><a href="#">Representación</a></h4>
                         <div class="text"><p>
-Integrar parte del Directorio y representar a la sociedad hasta que se finalicen los trámites de radicación de sus futuros directivos.
-			</p></div>
+                                Integrar parte del Directorio como director para representación legal mediante poderes de representación particular o para la sociedad hasta que se finalicen los trámites de radicación de sus futuros directivos, ser Síndico, domicilio temporal, etc.
+			            </p></div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
-                    <div class="service-content">
-                        <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Servicios Inmobiliarios</a></h4>
-                        <div class="text"><p>
-Búsqueda de inmuebles, con fines residenciales o industriales, para compra o alquiler en todo el territorio nacional. Desarrollo,preparación, ejecución y control del plan de obras civiles.
-			</p></div>
-                    </div>
-                </div>
-            </div>
-            <div class="row row-eq-height">
                 <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
                     <div class="service-content">
                         <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
                         <h4><a href="#">Contabilidad</a></h4>
                         <div class="text"><p>
-Contabilidad Mensual, registro de la empresa en la SET, habilitación de libros societarios, registración de las mismas en un sistema contable en el cliente y/o en la empresa, confección de informes gerenciales impositivos, mensuales y anuales para su presentación a los organismos públicos competentes. Confección y presentación de Declaraciones Juradas de IVA, libros y planillas del Ministerio de Justicia y Trabajo. Confección de libros exigidos por ley.
-			</p></div>
+                                Contabilidad Mensual, registro de la empresa en la SET, habilitación de libros societarios, registración de las mismas en un sistema contable en el cliente y/o en la empresa, confección de informes gerenciales impositivos, mensuales y anuales para su presentación a los organismos públicos competentes. Confección y presentación de Declaraciones Juradas de IVA, libros y planillas del Ministerio de Justicia y Trabajo. Confección de libros exigidos por ley.
+                            </p></div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
-                    <div class="service-content">
-                        <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Supervisión Maquila</a></h4>
-                        <div class="text"><p>
-Soporte para supervision y mantenimiento del Sistema SAMWEB, presentaciones de actas de destruccion y formulario Banco Central, solicitudes de ampliacion o modificacion de programas aprobados, soporte de informacion y nexo de la empresa maquiladora con el CNIME (Consejo Nacional de Industrias Maquiladoras de Exportacion)
-			</p></div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
-                    <div class="service-content">
-                        <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Desarrollo de sistemas informáticos</a></h4>
-                        <div class="text"><p>
-Desarrollo de software en base a los principios contables de nuestro país, con la posibilidad de sincronizar con los sistemas del cliente, desarrollo de softwares administrativos, operativos y/o aplicaciones de acuerdo a la necesidad del cliente. Desarrollo de paginas web y soporte tecnico informatico.
-			</p></div>
-                    </div>
-                </div>
-            </div>
-            <div class="row row-eq-height">
-                <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
-                    <div class="service-content">
-                        <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Asesoría Jurídica</a></h4>
-                        <div class="text"><p>
-Servicios de asesoría jurídica en materia civil, comercial, laboral y tributaria. Gestión de Cobranzas Judiciales y Extrajudiciales.
-			</p></div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
-                    <div class="service-content">
-                        <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Despachos Aduaneros</a></h4>
-                        <div class="text"><p>
-Contratación de servicios de despachantes de aduana para la importación y exportación de productos.
-			</p></div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-colmun">
-                    <div class="service-content">
-                        <div class="icon-box"><a href="#"><i class="flaticon-graph"></i></a></div>
-                        <h4><a href="#">Recupero de créditos fiscales de Exportación</a></h4>
-                        <div class="text"><p>
-Auditoría y presentación de solicitud de crédito fiscal del exportador. Negociación en certificados.
-			</p></div>
-                    </div>
-                </div>
-
-
             </div>
         </div>
     </section>
